@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2heunxun 안녕하세요 경기대학교 재학중인 유승헌입니다.
+- 👋 Hi, I’m @2heunxun
 - 👀 I’m interested in Back-end server 
 - 🌱 I’m currently learning Java , Spring Boot 
 - 💞️ I’m looking to collaborate on Frond designer & Sprig Boot Programmer
