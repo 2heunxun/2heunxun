@@ -16,7 +16,7 @@
   (사)한국인공지능융합기술학회
 
 - **우수상**  
-  AI·SW 해커톤 Khuthon 2025 (Team : ByteCrew)
+  AI·SW 해커톤 Khuthon 2025 (Team : ByteCrew)   
   우수상 수상
 
 ---
