@@ -18,10 +18,7 @@
 - **우수상**  
   AI·SW 해커톤 Khuthon 2025 (Team : ByteCrew)   
   우수상 수상
-
 ---
-
-
 
 ## 💻 Tech Stack & Learning Now
 
