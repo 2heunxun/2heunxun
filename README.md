@@ -36,7 +36,7 @@
   <!-- API / 문서화 -->
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black"/>
   <!-- Infra -->
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
