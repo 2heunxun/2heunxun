@@ -20,8 +20,8 @@
   우수상 수상
   
 - **우수 논문상**
-- Team: EasyGo
-  KAICTS-2025-022호
+  <br>Team: EasyGo<br>
+  KAICTS-2025-022호<br>
   (사)KAICTS 한국 인공지능융합기술학회
 ---
 
