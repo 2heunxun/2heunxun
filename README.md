@@ -18,6 +18,11 @@
 - **우수상**  
   AI·SW 해커톤 Khuthon 2025 (Team : ByteCrew)   
   우수상 수상
+  
+- **우수 논문상**
+- Team: EasyGo
+  KAICTS-2025-022호
+  (사)KAICTS 한국 인공지능융합기술학회
 ---
 
 ## 💻 Tech Stack & Learning Now
