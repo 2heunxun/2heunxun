@@ -9,6 +9,19 @@
   2024.09.01 ~ now  
 
 ---
+## 🏃‍♂️ Participation
+
+- **Khuthon 2025** (2025.05)  
+  SW중심대학 공동 주최 AI·SW 대학 연합 해커톤 (무박 2일)
+    <br>**주최** - SW중심대학
+  <br>**후원사** - SW중심대학
+
+- **Us:Code 2025 in 의성** (2025.06)  
+  의성군청·Google Developers 공동 주최 지역 문제 해결 해커톤 (무박 3일)
+  <br>**주최** - 메이드인피플
+  <br>**후원사** - 의성군, Google Developers
+
+---
 
 ## 🏆 Awards  
 - **우수 발표 논문상**  
@@ -23,6 +36,12 @@
   <br>Team: EasyGo<br>
   KAICTS-2025-022호<br>
   (사)KAICTS 한국 인공지능융합기술학회
+
+- **은상**
+  <br> Team : EasyGo <br>
+  ***기초 캡스톤*** <br>
+  주제 : MCP 기반 챗봇을 활용한 교통약자 기반 대중교통 이용 플랫폼
+
 ---
 
 ## 💻 Tech Stack & Learning Now
