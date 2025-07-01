@@ -31,27 +31,29 @@
 
 ## 🏆 Awards  
 - **Us:Code 해커톤 최우수상**
+  25.06.29 수상
   <br>Team: ByteCrew<br>
   후원 : 의성군 & Google for Developers <br>
   주제 : 의성군 지역문제 해결
 
-- **우수 발표 논문상**  
-  KAICTS-2024-016호  
-  (사)한국인공지능융합기술학회
-
 - **우수상**  
   AI·SW 해커톤 Khuthon 2025 (Team : ByteCrew)   
   우수상 수상
+
+- **은상**
+  <br> Team : EasyGo <br>
+  ***기초 캡스톤*** <br>
+  주제 : MCP 기반 챗봇을 활용한 교통약자 기반 대중교통 이용 플랫폼
+
+- **우수 발표 논문상**  
+  KAICTS-2024-016호  
+  (사)한국인공지능융합기술학회
   
 - **우수 논문상**
   <br>Team: EasyGo<br>
   KAICTS-2025-022호<br>
   (사)KAICTS 한국 인공지능융합기술학회
 
-- **은상**
-  <br> Team : EasyGo <br>
-  ***기초 캡스톤*** <br>
-  주제 : MCP 기반 챗봇을 활용한 교통약자 기반 대중교통 이용 플랫폼
 
 ---
 
