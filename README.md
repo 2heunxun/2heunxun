@@ -39,7 +39,7 @@
 - **2025 Khuthon 해커톤 우수상**  
   AI·SW 해커톤 Khuthon 2025
   Team : ByteCrew   
-  주최 : SW 중심대학 / 경희대학교
+  주최 : SW 중심대학 / 경희대학교<br>
   우수상 수상
 
 - **은상**
