@@ -56,6 +56,14 @@
   KAICTS-2025-022호<br>
   (사)KAICTS 한국 인공지능융합기술학회
 
+---
+
+## 📚 번역 및 기여 활동 (Translation & Contribution)
+
+### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
+
+* **역할**: 공동 번역가 및 검수
+* **GitHub**: [ita9naiwa/debuggingteams](https://github.com/ita9naiwa/debuggingteams)
 
 ---
 
