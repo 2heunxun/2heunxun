@@ -58,7 +58,7 @@
 
 ---
 
-## 📚 번역 및 기여 활동 (Translation & Contribution)
+## 📚 Translation & Contribution
 
 ### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
 
