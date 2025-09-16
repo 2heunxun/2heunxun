@@ -3,8 +3,6 @@
 ## 🚀 Profile  
 - **Kakao & Groom 9oormthon Univ** Back-end Position [4기]  
   2025.04.20 ~ now  
-- **EmotionCore** 사이트 제작  
-  2024.11.30 ~ now  
 - **C-Lab 코딩동아리** 임원진 / 백엔드 & 자료구조 스터디 팀장  
   2024.09.01 ~ now  
 
