@@ -2,7 +2,7 @@
 
 ## 🚀 Profile  
 - **Kakao & Groom 9oormthon Univ** Back-end Position [4기]  
-  2025.04.20 ~ now  
+  2025.03 ~ 2025.09 
 - **C-Lab 코딩동아리** 임원진 / 백엔드 & 자료구조 스터디 팀장  
   2024.09.01 ~ now  
 
@@ -19,6 +19,9 @@
 
 ---
 ## 🏃‍♂️ Participation
+
+- **Kakao & Groom 9oormthon Univ** Back-end Position [4기] 수료  
+  발급일 : 2025.09.20
 
 - **Khuthon 2025** (2025.05)  
   SW중심대학 공동 주최 AI·SW 대학 연합 해커톤 (무박 2일)
