@@ -60,7 +60,7 @@
 
 ---
 
-## 📚 Translation & Contribution
+## [OpenSource Contribution] 📚 Translation & Contribution
 
 ### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
 
