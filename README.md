@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm a Back-end Developer
 
 ## 🚀 Profile  
-- **Kakao & Groom 9oormthon Univ** Back-end Position [4기]  
+- **Kakao & Groom 9oormthon Univ** Back-end Position [ 4기 ]  
   2025.03 ~ 2025.09 
 - **C-Lab 코딩동아리** 임원진 / 백엔드 & 자료구조 스터디 팀장  
   2024.09.01 ~ 2025.12.31
