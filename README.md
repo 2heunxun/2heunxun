@@ -15,6 +15,8 @@
 
 ---
 ## 🏃‍♂️ Participation
+- **SK AX SKALA 4기**
+  진행중( 2025.07 ~ 현재)
 
 - **Kakao & Groom 9oormthon Univ** Back-end Position [4기] 수료  
   발급일 : 2025.09.20
