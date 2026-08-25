@@ -62,9 +62,9 @@
 
 ---
 
-## [OpenSource Contribution] 📚 Translation & Contribution
+## [OpenSource Contribution] 📚 Translation & 🧩 Open Source Contributions
 
-### Spring Boot
+### [Spring Boot](https://github.com/spring-projects/spring-boot)
 - **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
 - [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412) — **Merged**
 - **Spring Boot** — Fixed `LdapHealthIndicator` incorrectly reporting `UNKNOWN`
