@@ -67,6 +67,9 @@
 ### Spring Boot
 - **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
 - [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412) — **Merged**
+- **Spring Boot** — Fixed `LdapHealthIndicator` incorrectly reporting `UNKNOWN`
+- [PR #51441](https://github.com/spring-projects/spring-boot/pull/51441) — **Merged**
+
 
 ### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
 
