@@ -64,6 +64,10 @@
 
 ## [OpenSource Contribution] 📚 Translation & Contribution
 
+### Spring Boot
+- **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
+- [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412) — **Merged**
+
 ### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
 
 * **역할**: 공동 번역가 및 검수
