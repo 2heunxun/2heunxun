@@ -65,11 +65,12 @@
 ## [OpenSource Contribution] 📚 Translation & 🧩 Open Source Contributions
 
 ### [Spring Boot](https://github.com/spring-projects/spring-boot)
+#### Merged PRs
 - **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
-- [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412) — **Merged**
+- [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412)
 - **Spring Boot** — Fixed `LdapHealthIndicator` incorrectly reporting `UNKNOWN`
-- [PR #51441](https://github.com/spring-projects/spring-boot/pull/51441) — **Merged**
-#### Now Open PR
+- [PR #51441](https://github.com/spring-projects/spring-boot/pull/51441)
+- **Spring Boot** — Fixed `DockerCompose` `encrypt=` property detection
 - [PR #51467](https://github.com/spring-projects/spring-boot/pull/51467)
 
 
