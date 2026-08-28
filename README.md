@@ -7,6 +7,24 @@
   2024.09.01 ~ 2025.12.31
 
 ---
+## [OpenSource Contribution] 📚 Translation & 🧩 Open Source Contributions
+
+### [Spring Boot](https://github.com/spring-projects/spring-boot)
+#### Merged PRs
+- **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
+- [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412)
+- **Spring Boot** — Fixed `LdapHealthIndicator` incorrectly reporting `UNKNOWN`
+- [PR #51441](https://github.com/spring-projects/spring-boot/pull/51441)
+- **Spring Boot** — Fixed `DockerCompose` `encrypt=` property detection
+- [PR #51467](https://github.com/spring-projects/spring-boot/pull/51467)
+
+
+### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
+
+* **역할**: 공동 번역가 및 검수
+* **GitHub**: [ita9naiwa/debuggingteams](https://github.com/ita9naiwa/debuggingteams)
+
+---
 
 ## 👨‍💻 INTERN
 - (주)클레버러스 백엔드 인턴 <br>
@@ -62,24 +80,7 @@
 
 ---
 
-## [OpenSource Contribution] 📚 Translation & 🧩 Open Source Contributions
 
-### [Spring Boot](https://github.com/spring-projects/spring-boot)
-#### Merged PRs
-- **Spring Boot** — Fixed watchdog thread leak in `JmsHealthIndicator`
-- [PR #51412](https://github.com/spring-projects/spring-boot/pull/51412)
-- **Spring Boot** — Fixed `LdapHealthIndicator` incorrectly reporting `UNKNOWN`
-- [PR #51441](https://github.com/spring-projects/spring-boot/pull/51441)
-- **Spring Boot** — Fixed `DockerCompose` `encrypt=` property detection
-- [PR #51467](https://github.com/spring-projects/spring-boot/pull/51467)
-
-
-### [Debugging Teams 한국어 번역 프로젝트](https://ita9naiwa.github.io/debuggingteams/)
-
-* **역할**: 공동 번역가 및 검수
-* **GitHub**: [ita9naiwa/debuggingteams](https://github.com/ita9naiwa/debuggingteams)
-
----
 
 ## 💻 Tech Stack & Learning Now
 
